@@ -37,11 +37,6 @@
 <pre>apt update && apt upgrade && wget https://raw.githubusercontent.com/Kuro-Shion0329/ArashiTeamVPSAutoScript/master/DB && chmod +x DB && ./DB
 </pre></p>
 After Install Please Reboot Before Used
-<h3 align="center">Installation OpenVPN-Monitor</h3>
-
-<p align="center">
-<pre>export B='https://github.com/Bonveio/BonvScripts/releases/download/Debian-OpenVPN-Monitor/Debian-OpenVPN-Monitor.gz' && wget -qO Debian-OpenVPN-Monitor "$B" && chmod +x Debian* && ./Debian-OpenVPN-Monitor
-</pre></p>
 
 <h3 align="center">Download Link Configs OpenVPN</h3>
 
@@ -50,13 +45,7 @@ After Install Please Reboot Before Used
 
 <h3 align="center">Additional Info</h3>
 <p align="center">
-Recommended OS: Debian 9 Stretch x64
-
-Credit To : https://github.com/rvpn/AutoScriptDB-1 (Orignal Script)
-
-Credit To : https://github.com/johndesu090/AutoScriptDeb8 (Orignal Script Menu)
-
-Credit To : https://github.com/Bonveio/BonvScripts (Orignal Script OpenVPN Monitor)
+Recommended OS: Debian 9 Stretch x64 ,Debian 10 Buster x64
 
 Contact Me : https://t.me/ShionArashi
 
