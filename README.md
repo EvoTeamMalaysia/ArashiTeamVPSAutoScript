@@ -34,7 +34,7 @@
 <h3 align="center">Installation</h3>
 
 <p align="center">
-<pre>apt update && apt upgrade && wget https://raw.githubusercontent.com/Kuro-Shion0329/ArashiTeamVPSAutoScript/master/DB && chmod +x DB && ./DB
+<pre>apt update && apt upgrade && wget https://raw.githubusercontent.com/Kuro-Shion0329/ArashiTeamVPSAutoScript/master/Install && chmod +x Install && ./Install
 </pre></p>
 After Install Please Reboot Before Used
 
